@@ -1,0 +1,19 @@
+section.light h1 {
+    color: blue;
+}
+
+section.dark h1 {
+    color: #e7e7e7;
+}
+
+section.light {
+    background-color: white;
+}
+section.dark {
+    background-color: #333333;
+}
+.themeButton{
+    position: fixed;
+    width: 100%;
+    text-align: left;
+}
